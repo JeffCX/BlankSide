@@ -1,0 +1,18 @@
+Quiz1
+Sec. B
+1. A 0.5 kg mass is attached to a spring of spring constant2
+stretched by 10 cm. At t O the mass is released from rest
+2000 N/m which is ini
+a) Write down the function x(t) which describes the position of the mass over
+(Take):0 as the equilibrium position) (3 points) Att
+200063.2 red
+b) What is the speed of the mass at the moment when the mass is at a distance of
+from the equilibrium? (Hint: Think about the conservation of energy)(3 points)
+e
+harmonic wave on a string of linear mass density 0.02 kg/m is described by the wave
+tion: y(x, t) = 0,04 sin(12x +8001). (Al
+t is the tension of the string? (4 points)
+lthe lengths are in meters, time is in seconds)
+0
+0. 02
+ Quiz1 Sec. B 1. A 0.5 kg mass is attached to a spring of spring constant2 stretched by 10 cm. At t O the mass is released from rest 2000 N/m which is ini a) Write down the function x(t) which describes the position of the mass over ( Take ) : 0 as the equilibrium position ) ( 3 points ) Att 200063.2 red b) What is the speed of the mass at the moment when the mass is at a distance of from the equilibrium? (Hint: Think about the conservation of energy)(3 points) e harmonic wave on a string of linear mass density 0.02 kg/m is described by the wave tion : y ( x , t ) = 0,04 sin ( 12x +8001 ) . ( Al t is the tension of the string? (4 points) lthe lengths are in meters, time is in seconds) 0 0. 02

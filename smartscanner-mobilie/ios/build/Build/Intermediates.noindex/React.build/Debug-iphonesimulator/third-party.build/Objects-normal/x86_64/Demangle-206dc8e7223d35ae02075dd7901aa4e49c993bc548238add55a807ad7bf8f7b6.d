@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/xiangcui/Desktop/hackathon/HackNYU2019/smartscanner-mobile-app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
